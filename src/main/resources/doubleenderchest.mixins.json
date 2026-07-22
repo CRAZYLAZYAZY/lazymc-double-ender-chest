@@ -1,0 +1,10 @@
+{
+  "package": "com.lazymc.doubleenderchest.mixin",
+  "required": true,
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EnderChestInventorySizeMixin",
+    "EnderChestScreenSizeMixin"
+  ]
+}
