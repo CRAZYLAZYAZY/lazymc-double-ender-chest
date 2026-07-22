@@ -11,7 +11,6 @@ Two mixins: `EnderChestInventory` backing size, and the ender chest screen handl
 - 54 slots (6 rows) per ender chest
 - Works for all players on a server — each player's ender chest inventory is independent
 - No configuration, no commands
-- ⚠️ Removing the mod hides slots 28–54 (vanilla only recognizes 27). Items in those slots aren't lost — they're still in the save data — but you won't see or access them without the mod installed
 
 ## Compatibility
 
