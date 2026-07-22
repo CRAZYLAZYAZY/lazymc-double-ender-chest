@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "doubleenderchest",
   "version": "${version}",
-  "name": "Double Ender Chest",
+  "name": "LazyMC - Double Ender Chest 1.21.1 Fabric",
   "description": "Every player's ender chest has 54 slots (6 rows) instead of vanilla's 27 (3 rows) - same inventory everyone already has, just twice the size. Two mixins: EnderChestInventory's backing size, and the ender chest's screen handler (createGeneric9x3 -> createGeneric9x6).",
   "authors": ["CRAZYLAZYAZY"],
   "contact": {},
