@@ -4,8 +4,6 @@ Every player's ender chest has 54 slots (6 rows) instead of vanilla's 27 (3 rows
 
 Two mixins: `EnderChestInventory` backing size, and the ender chest screen handler (`createGeneric9x3` → `createGeneric9x6`).
 
-![](examples/doubleenderchest.png)
-
 ## Features
 
 - 54 slots (6 rows) per ender chest
